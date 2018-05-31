@@ -58,7 +58,7 @@ const scrollBehavior = function (to, from, savedPosition) {
 export function createRouter () {
   return new Router({
     mode: 'history',
-    base: '/youtube_detail_checker_2018/',
+    base: '/youtube_detail_checker_2018/dist/',
     linkActiveClass: 'nuxt-link-active',
     linkExactActiveClass: 'nuxt-link-exact-active',
     scrollBehavior,

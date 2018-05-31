@@ -119,7 +119,7 @@ export async function setContext(app, context) {
       
       payload: context.payload,
       error: context.error,
-      base: '/youtube_detail_checker_2018/',
+      base: '/youtube_detail_checker_2018/dist/',
       env: {}
     }
     // Only set once

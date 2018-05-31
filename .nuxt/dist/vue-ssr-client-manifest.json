@@ -1,19 +1,19 @@
 {
-  "publicPath": "/youtube_detail_checker_2018/_nuxt/",
+  "publicPath": "/youtube_detail_checker_2018/dist/_nuxt/",
   "all": [
     "pages/index.a19c1f385940cbc0bb88.js",
     "layouts/default.fb7a4a39133936acba4f.js",
     "vendor.c310e83bd40709a41d0b.js",
-    "app.6403fce6acaf65239b8b.js",
-    "manifest.ad6b1025f4a9f04e5ae3.js",
+    "app.0ac05a5cf189e67b9c8e.js",
+    "manifest.5d436da4bbd496a45e89.js",
     "LICENSES",
     "index.spa.html",
     "index.ssr.html"
   ],
   "initial": [
-    "manifest.ad6b1025f4a9f04e5ae3.js",
+    "manifest.5d436da4bbd496a45e89.js",
     "vendor.c310e83bd40709a41d0b.js",
-    "app.6403fce6acaf65239b8b.js"
+    "app.0ac05a5cf189e67b9c8e.js"
   ],
   "async": [
     "pages/index.a19c1f385940cbc0bb88.js",
