@@ -1,6 +1,6 @@
 const routerBase = process.env.DEPLOY_ENV === 'GH_PAGES' ? {
   router: {
-    base: '/youtube_detail_checker_2018/dist/'
+    base: '/youtube_detail_checker_2018/'
   }
 } : {}
 
