@@ -119,7 +119,7 @@ export async function setContext(app, context) {
       
       payload: context.payload,
       error: context.error,
-      base: '/<repository-name>/',
+      base: '/youtube_detail_checker_2018/',
       env: {}
     }
     // Only set once

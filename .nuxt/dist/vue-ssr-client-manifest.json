@@ -1,19 +1,19 @@
 {
-  "publicPath": "/<repository-name>/_nuxt/",
+  "publicPath": "/youtube_detail_checker_2018/_nuxt/",
   "all": [
     "pages/index.a19c1f385940cbc0bb88.js",
     "layouts/default.fb7a4a39133936acba4f.js",
     "vendor.c310e83bd40709a41d0b.js",
-    "app.f7c255dec177a281a2ed.js",
-    "manifest.f535ac779bd5095d8f24.js",
+    "app.6403fce6acaf65239b8b.js",
+    "manifest.ad6b1025f4a9f04e5ae3.js",
     "LICENSES",
     "index.spa.html",
     "index.ssr.html"
   ],
   "initial": [
-    "manifest.f535ac779bd5095d8f24.js",
+    "manifest.ad6b1025f4a9f04e5ae3.js",
     "vendor.c310e83bd40709a41d0b.js",
-    "app.f7c255dec177a281a2ed.js"
+    "app.6403fce6acaf65239b8b.js"
   ],
   "async": [
     "pages/index.a19c1f385940cbc0bb88.js",

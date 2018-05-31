@@ -40,5 +40,8 @@ module.exports = {
         })
       }
     }
+  },
+  router: {
+    base: '/youtube_detail_checker_2018/'
   }
 }
