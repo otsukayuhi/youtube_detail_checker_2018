@@ -23,7 +23,7 @@ button {
 }
 .input {
   padding: 0 10px;
-  width: 200px;
+  width: 150px;
   height: 30px;
   border: 1px solid #000;
   font-size: 17px;
@@ -48,10 +48,16 @@ button {
     display: block;
   }
 }
+.video-img {
+  img {
+    max-width: 100%;
+  }
+}
 .video-tags {
   margin: 20px 0 0;
   padding: 0;
   display: flex;
+  flex-wrap: wrap;
   list-style: none;
 }
 .video-tag {
