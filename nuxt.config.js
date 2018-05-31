@@ -1,6 +1,6 @@
 const routerBase = process.env.DEPLOY_ENV === 'GH_PAGES' ? {
   router: {
-    base: '/<repository-name>/'
+    base: '/youtube_detail_checker_2018/'
   }
 } : {}
 
@@ -40,8 +40,5 @@ module.exports = {
         })
       }
     }
-  },
-  router: {
-    base: '/<repository-name>/'
   }
 }
