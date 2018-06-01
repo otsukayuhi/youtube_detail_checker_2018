@@ -10,7 +10,7 @@ section.section
       .video-title {{ infoTitle }}
       ul.video-tags(v-if="infoTags")
         li.video-tag(v-for="tag in infoTags") {{ tag }}
-      .no-tags(v-if="!infoTags") タグはあません。
+      .no-tags(v-if="!infoTags") タグはありません。
     .video-error(v-if="er") IDが間違っています。
 </template>
 
